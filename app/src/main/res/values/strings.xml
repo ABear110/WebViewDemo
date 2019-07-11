@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebViewDemo</string>
+    <string name="handler_btn">跳转Handler界面</string>
+    <string name="about_btn">关于</string>
+    <string name="web_btn">webView控件</string>
+    <string name="handlerone">HandlerPost</string>
+    <string name="handlertwo">HandlerTwo</string>
+</resources>
